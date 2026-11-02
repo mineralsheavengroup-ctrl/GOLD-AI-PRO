@@ -1,1 +1,29 @@
-{"name": "GOLD AI PRO", "short_name": "GOLD AI", "start_url": "/GOLD-AI-PRO/", "display": "standalone", "background_color": "#0b1220", "theme_color": "#0b1220", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
+{
+
+  "name": "GOLD AI PRO",
+
+  "short_name": "GOLD AI",
+
+  "start_url": "/GOLD-AI-PRO/",
+
+  "scope": "/GOLD-AI-PRO/",
+
+  "display": "standalone",
+
+  "background_color": "#0b1220",
+
+  "theme_color": "#0b1220",
+
+  "icons": [
+
+    {
+
+      "src": "icon.png",
+
+      "sizes": "512x512",
+
+      "type": "image/png"
+
+    }
+
+  
